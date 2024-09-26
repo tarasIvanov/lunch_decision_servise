@@ -1,8 +1,9 @@
-# lunch_decision_servise
 
 # Lunch Decision Service
 
 This is a Django-based web application designed to help users decide where to have lunch. It leverages Django REST framework and JWT for authentication.
+
+PC: I was not familiar with technologies like Django, DWF, JWT and Docker. I was preparing to write a program using Flask and libraries of the type (werkzeug, sqlalchemy.orm), because the vacancy indicated that these technologies are also in demand. Nevertheless, I did what I could and will finish this task in some time
 
 ## Features
 
